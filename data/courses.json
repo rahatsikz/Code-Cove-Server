@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "name": "HTML Masterclass",
+    "price": "$11.99",
+    "lessons": "13",
+    "students": "30",
+    "description": "New Guy? learn to make the skeleton of your website"
+  },
+  {
+    "id": "02",
+    "name": "Style it with CSS",
+    "Price": "$12.00",
+    "lessons": "18",
+    "students": "34",
+    "description": "Give your websites a flavour of raw css"
+  },
+  {
+    "id": "03",
+    "name": "Effortless Styling with Tailwind",
+    "price": "$13.50",
+    "lessons": "15",
+    "students": "43",
+    "description": "Don't want to write css code? Learn tailwind"
+  },
+  {
+    "id": "04",
+    "name": "Jump to JS",
+    "price": "$23.99",
+    "lessons": "35",
+    "students": "60",
+    "description": "HTML, CSS done? Learn the programming language of web."
+  },
+  {
+    "id": "05",
+    "name": "Fast start with React",
+    "price": "$33.99",
+    "lessons": "40",
+    "students": "52",
+    "description": "Start building your front end web apps with react JS"
+  },
+  {
+    "id": "06",
+    "name": "Design Theory",
+    "price": "$18.00",
+    "lessons": "20",
+    "students": "25",
+    "description": "Get a better design sense. Build quality product"
+  }
+]
