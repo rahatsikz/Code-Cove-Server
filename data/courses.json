@@ -5,15 +5,17 @@
     "price": "$11.99",
     "lessons": "13",
     "students": "30",
-    "description": "New Guy? learn to make the skeleton of your website"
+    "description": "New Guy? learn to make the skeleton of your website",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
   },
   {
     "id": "02",
     "name": "Style it with CSS",
-    "Price": "$12.00",
+    "price": "$12.99",
     "lessons": "18",
     "students": "34",
-    "description": "Give your websites a flavour of raw css"
+    "description": "Give your websites a flavour of raw css",
+    "image": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
   },
   {
     "id": "03",
@@ -21,7 +23,8 @@
     "price": "$13.50",
     "lessons": "15",
     "students": "43",
-    "description": "Don't want to write css code? Learn tailwind"
+    "description": "Don't want to write css code? Learn tailwind",
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
   },
   {
     "id": "04",
@@ -29,7 +32,8 @@
     "price": "$23.99",
     "lessons": "35",
     "students": "60",
-    "description": "HTML, CSS done? Learn the programming language of web."
+    "description": "HTML, CSS done? Learn the programming language of web.",
+    "image": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
   },
   {
     "id": "05",
@@ -37,7 +41,8 @@
     "price": "$33.99",
     "lessons": "40",
     "students": "52",
-    "description": "Start building your front end web apps with react JS"
+    "description": "Start building your front end web apps with react JS",
+    "image": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
   },
   {
     "id": "06",
@@ -45,6 +50,7 @@
     "price": "$18.00",
     "lessons": "20",
     "students": "25",
-    "description": "Get a better design sense. Build quality product"
+    "description": "Get a better design sense. Build quality product",
+    "image": "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1547&q=80"
   }
 ]
