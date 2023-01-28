@@ -5,6 +5,7 @@
     "price": "$11.99",
     "lessons": "13",
     "students": "30",
+    "instructor": "Mitchel yu",
     "description": "HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages. It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development",
     "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
     "level": "Beginner",
@@ -20,9 +21,15 @@
     "price": "$12.99",
     "lessons": "18",
     "students": "34",
+    "instructor": "Kevin Prowel",
     "description": "CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs",
     "image": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-    "level": "Beginner"
+    "level": "Beginner",
+    "learnings": [
+      "Modern CSS (previous CSS3), including flexbox and CSS Grid for layout",
+      "Important CSS concepts such as the box model, positioning schemes",
+      "Design and build a stunning real-world project for your portfolio from scratch"
+    ]
   },
   {
     "id": "03",
@@ -30,9 +37,15 @@
     "price": "$13.50",
     "lessons": "15",
     "students": "43",
+    "instructor": "Brady Hunt",
     "description": "Tailwind is so low-level, it never encourages you to design the same site twice. Even with the same color palette and sizing scale, it's easy to build the same component with a completely different look in the next project",
     "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "learnings": [
+      "Learn to create and edit layouts super fast",
+      "Configure your styles to create custom layouts",
+      "Learn the Tailwind utility classes using a code sandbox"
+    ]
   },
   {
     "id": "04",
@@ -40,9 +53,15 @@
     "price": "$23.99",
     "lessons": "35",
     "students": "60",
+    "instructor": "Jonas Miller",
     "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages",
     "image": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-    "level": "Advanced"
+    "level": "Advanced",
+    "learnings": [
+      "Become job-ready by understanding how JavaScript really works behind the scenes",
+      "Become an advanced, confident, and modern JavaScript developer from scratch",
+      "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation"
+    ]
   },
   {
     "id": "05",
@@ -50,9 +69,15 @@
     "price": "$33.99",
     "lessons": "40",
     "students": "52",
+    "instructor": "Colt Campher",
     "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”",
     "image": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-    "level": "Advanced"
+    "level": "Advanced",
+    "learnings": [
+      "Build powerful, fast, user-friendly and reactive web apps",
+      "Learn all about React Hooks and React Components",
+      "Provide amazing user experiences by leveraging the power of JavaScript with ease"
+    ]
   },
   {
     "id": "06",
@@ -60,8 +85,14 @@
     "price": "$18.00",
     "lessons": "20",
     "students": "25",
+    "instructor": "Steve Grover",
     "description": "The five design principles should be used in every design project you work on. Each principle is an essential part of a design, but how they work together is the most critical thing to consider when trying to communicate a message to a specific audience",
     "image": "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1547&q=80",
-    "level": "Intermediate"
+    "level": "Intermediate",
+    "learnings": [
+      "You will learn layout, user interface and experience design",
+      "You will learn color theory and how it applies to the world around us,",
+      "You will learn about past and current design trends"
+    ]
   }
 ]
